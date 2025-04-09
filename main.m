@@ -15,7 +15,7 @@ K = 100;
 
 % Define simulation parameters
 del_t = 0.1;  
-last_t = 10;   
+last_t = 100;   
 t = 0:del_t:last_t;  
 
 % Compute integration parameters
