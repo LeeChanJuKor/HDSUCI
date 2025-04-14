@@ -1,7 +1,6 @@
-This source code implements the high-order implicit time integration methods proposed in the accompanying research paper.
+# Implementation of the HDSUCI method
 
-The code is written in MATLAB and developed by:
-Chanju Lee (corean1377@korea.ac.kr)
-Gunwoo Noh (gunwoonoh@korea.ac.kr)
+This repository contains the implementation of the numerical methods proposed in the paper:  
+**"Implicit s-sub-step time integration schemes with (s+1)th-order accuracy and dissipation control."**
 
-It is distributed under the MIT License (https://opensource.org/license/mit/).
+The source code is currently private and will be made publicly available upon publication of the paper.
